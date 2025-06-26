@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
+    cout << "Hallo Ryan jangan sok asik yah " << endl;
     int n;
     cout << "Enter the size (n): ";
     cin >> n;
